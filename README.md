@@ -18,7 +18,7 @@ After installation, login to azure:
 ```
 az login
 ```
-Please don't forget check which subscription you are currently in, use the following command:
+Please don't forget to check which subscription you are currently in, use the following command:
 ```
 az account show 
 ```
